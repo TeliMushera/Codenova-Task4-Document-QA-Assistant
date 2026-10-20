@@ -9,11 +9,22 @@ A Python-based application that allows users to upload a document and ask questi
 - Display answers based on the provided document.
 - Return an appropriate message when relevant information is not found.
 
-## Tech Stack
-- **Language:** Python
-- **Environment:** Jupyter Notebook
-- **Libraries:** Pandas, Scikit-learn, ipywidgets
-- **Algorithm:** TF-IDF Vectorization and Cosine Similarity
+
+## 5. Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| Python | Core application logic |
+| Jupyter Notebook | Development environment and interactive interface |
+| Scikit-learn | TF-IDF vectorization and cosine similarity |
+| Pandas | Organizing question results and similarity scores |
+| NumPy | Numerical operations |
+| IPython Widgets | Document upload and question input controls |
+| IPython Display | Rendering answers, tables, and source passages |
+| Document parser | Extracting text from supported document formats |
+
+The project uses local, open-source components and does not require a paid language-model API for TF-IDF-based retrieval.
+
 
 ## Workflow
 1. Upload a document.
