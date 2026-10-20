@@ -1,0 +1,6 @@
+Question,Answer,Supported,Source
+What is artificial intelligence?,DOCUMENT 1: ARTIFICIAL INTELLIGENCE Artificial intelligence is a field of computer science that develops systems capable of performing tasks that normally require human intelligence.,True,sample_documents.txt
+What are the three cloud service models?,"The three common cloud service models are Infrastructure as a Service, Platform as a Service, and Software as",True,sample_documents.txt
+What is the difference between authentication and authorization?,"Authentication verifies a user's identity, while authorization determines which resources an authenticated user is allowed to access.",True,sample_documents.txt
+What is a primary key?,A primary key uniquely identifies a row in a table.,True,sample_documents.txt
+Who won the 2024 Olympic gold medal in cricket?,Information not found in provided document.,False,Not found

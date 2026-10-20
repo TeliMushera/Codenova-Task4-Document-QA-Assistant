@@ -1,0 +1,8 @@
+{
+  "document_count": 1,
+  "passage_count": 6,
+  "retrieval_method": "TF-IDF with cosine similarity",
+  "chunk_size_words": 70,
+  "overlap_words": 15,
+  "minimum_retrieval_score": 0.08
+}

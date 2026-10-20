@@ -1,0 +1,23 @@
+DOCUMENT 1: ARTIFICIAL INTELLIGENCE
+
+Artificial intelligence is a field of computer science that develops systems capable of performing tasks that normally require human intelligence. These tasks include recognizing patterns, understanding language, solving problems, and making predictions.
+
+Machine learning is a subset of artificial intelligence. It allows computers to learn patterns from data and use those patterns to make predictions or decisions. Supervised learning uses labeled examples, while unsupervised learning looks for patterns in unlabeled data.
+
+DOCUMENT 2: CLOUD COMPUTING
+
+Cloud computing provides computing resources such as servers, storage, databases, and software over a network. It allows users to access resources without maintaining all the physical infrastructure themselves.
+
+The three common cloud service models are Infrastructure as a Service, Platform as a Service, and Software as a Service. Infrastructure as a Service provides virtualized computing resources. Platform as a Service provides an environment for building and deploying applications. Software as a Service provides software that users access through a network.
+
+DOCUMENT 3: CYBERSECURITY
+
+Cybersecurity involves protecting computers, networks, applications, and data from unauthorized access, attacks, and damage. Common cybersecurity practices include using strong passwords, applying software updates, enabling multi-factor authentication, and maintaining backups.
+
+Encryption transforms readable information into a form that cannot be easily understood without the appropriate key. Authentication verifies a user's identity, while authorization determines which resources an authenticated user is allowed to access.
+
+DOCUMENT 4: DATABASE MANAGEMENT
+
+A database is an organized collection of data that can be stored, retrieved, and managed. A relational database stores information in tables containing rows and columns. SQL is commonly used to query and manage relational databases.
+
+A primary key uniquely identifies a row in a table. A foreign key represents a relationship with a key in another table. Database indexes can speed up data retrieval, although they may require additional storage and can increase the cost of data updates.
